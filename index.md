@@ -1,7 +1,8 @@
 ---
 layout: home
 title: "Home"
-#author_profile: true
+permalink: /
+author_profile: true
 classes: wide # ← 이 줄 추가!
 ---
 
