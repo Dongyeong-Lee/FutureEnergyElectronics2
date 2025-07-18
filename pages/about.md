@@ -90,27 +90,25 @@ body {
     <p>I am Doctoral Student of KU Leuven, Leuven, Belgium. At the same time, working as doctoral researcher at EnergyVille and Energy Transmission Competence Hub (Etch), Genk, Belgium. My research interests includ Power System Dynamics and Stability with High-Voltage Direct Current Transmission System and Wind Energy. </p>
   </section>
 
-  <section id="Education">
-    <h2>## 🧑‍🎓 Education</h2>
-    ### <img src="/assets/images/Logo_KU_Leuven.png" alt="KU Leuven" width="90" style="vertical-align:middle;"/> KU Leuven (Katholiek Universiteit Leuven)
-<div style="display: flex; justify-content: space-between;">
-  <em>Ph. D. in Electrical Engineering, ESAT - Electa  
-  (Department of Electrical Engineering - Electrical Energy Systems and Applications)</em>
-  <span style="text-align: right;">Leuven, Belgium<br>Apr 2023 – </span>
-</div>
+<section id="Education">
+  <h2>🎓 Education</h2>
 
-- **Ph.D. Dissertation**:  
-  *‘Design and Stability Analysis of Modular Multilevel Converter-Based High Voltage Direct Current Applications with Grid-Forming Controllers: Moving Towards Offshore Wind Integrating DC Network’*
-
-<em>Advisor: Prof. Jef Beerten</em>
-
-    <ul>
-      <li>Ph.D.</li>
-      <p></p>
-      <li>Master</li>
-      <li>Bachelor</li>
-    </ul>
-  </section>
+  <div style="margin-bottom: 30px;">
+    <div style="display: flex; align-items: center; gap: 10px;">
+      <img src="/assets/images/Logo_KU_Leuven.png" alt="KU Leuven" width="80">
+      <h3 style="margin: 0;">KU Leuven (Katholiek Universiteit Leuven)</h3>
+    </div>
+    <div style="display: flex; justify-content: space-between; font-style: italic;">
+      <span>Ph.D. in Electrical Engineering, ESAT - Electa</span>
+      <span>Leuven, Belgium | Apr 2023 –</span>
+    </div>
+    <p>
+      <strong>Ph.D. Dissertation:</strong><br>
+      <em>‘Design and Stability Analysis of Modular Multilevel Converter-Based High Voltage Direct Current Applications with Grid-Forming Controllers: Moving Towards Offshore Wind Integrating DC Network’</em><br>
+      <em>Advisor: Prof. Jef Beerten</em>
+    </p>
+  </div>
+</section>
 
   <section id="projects">
     <h2>프로젝트</h2>
