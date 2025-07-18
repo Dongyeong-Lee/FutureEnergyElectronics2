@@ -2,7 +2,7 @@
 layout: home
 title: "Home"
 permalink: /
-# author_profile: true
+author_profile: true
 classes: wide # ← 이 줄 추가!
 ---
 
