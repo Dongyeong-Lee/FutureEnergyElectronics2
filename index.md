@@ -1,7 +1,8 @@
 ---
 # layout: home
-# title: "홍길동 소개"
+# title: "Dongyeong Lee"
 author_profile: true
+classes: wide # ← 이 줄 추가!
 ---
 
 Welcome to F.E.E.L, Future Energy Electronics Lab! ⚡
