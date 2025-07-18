@@ -115,10 +115,10 @@ author:
   name: "Dongyeong Lee"
   avatar: "assets/images/Profile2_Grey.jpg"
   bio: "I am an Doctoral Researcher <br> @ KU Leuven and EnergyVille.<br>"
-  location: "Somewhere"
-  email: "dongyeong.lee@kuleuven.com or dongyeong.lee@energyville.be"
+  location: "Leuven & Genk / Belgium"
+  email: "dongyeong.lee@kuleuven.com"
   links:
-    - label: "Email"
+    - label: "dongyeong.lee@kuleuven.be"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "Website"
