@@ -120,7 +120,7 @@ author:
   links:
     - label: "Email <br>dongyeong.lee@kuleuven.be<br>"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:dongyeong.lee@kuleuven.be"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
