@@ -18,7 +18,7 @@ body {
 .about-nav {
   position: fixed;
   top: 120px;
-  left: 80px;
+  left: 200px;
   width: 200px;
   font-size: 14px;
   font-weight: 500;
@@ -118,7 +118,7 @@ body {
       <h3 style="margin: 0;">Korea University</h3>
     </div>
     <div style="display: flex; justify-content: space-between; font-style: italic;">
-      <span>M.S. in Engineering, Electric Energy</span>
+      <span>M.S. in Electrical Energy, Department of Electrical Engineering</span>
       <span>Seoul, Korea | -2023 –</span>
     </div>
     <p>
@@ -134,7 +134,7 @@ body {
       <h3 style="margin: 0;">Korea University</h3>
     </div>
     <div style="display: flex; justify-content: space-between; font-style: italic;">
-      <span>B.S. in Engineering, School of Electrical Engineering</span>
+      <span>B.S. in Electrical Engineering, School of Electrical Engineering</span>
       <span>Seoul, Korea | -2021 –</span>
     </div>
   </div>
