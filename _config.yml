@@ -116,7 +116,7 @@ author:
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "I am an Doctoral Researcher at KU Leuven and EnergyVille."
   location: "Somewhere"
-  email:"dongyeong.lee@kuleuven.com or dongyeong.lee@energyville.be"
+  email: "dongyeong.lee@kuleuven.com or dongyeong.lee@energyville.be"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
