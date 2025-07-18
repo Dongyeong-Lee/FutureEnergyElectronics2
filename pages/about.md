@@ -8,12 +8,18 @@ clasesse: wide
 
 # Dongyeong Lee
 
-
 <nav class="about-nav">
   <ul>
-    <li><a href="#intro">소개</a></li>
-    <li><a href="#skills">기술</a></li>
-    <li><a href="#projects">프로젝트</a></li>
+    <li><a href="#intro">About</a></li>
+    <li><a href="#skills">Education</a></li>
+    <li><a href="#projects">Projects</a></li>
+    <li><a href="#projects">Experience</a></li>
+    <li><a href="#projects">Journal Publications</a></li>
+    <li><a href="#projects">Conference & Talks</a></li>
+    <li><a href="#projects">Supervising</a></li>
+    <li><a href="#projects">Honors & Awards & Scholarship</a></li>
+    <li><a href="#projects">Teaching</a></li>
+    <li><a href="#projects">Professional Services</a></li>
   </ul>
 </nav>
 
