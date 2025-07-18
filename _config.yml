@@ -113,7 +113,7 @@ analytics:
 # Site Author
 author:
   name: "Your Name"
-  avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar: "/assets/images/Profile1_Grey.jpg"
   bio: "I am an Doctoral Researcher at KU Leuven and EnergyVille."
   location: "Somewhere"
   email: "dongyeong.lee@kuleuven.com or dongyeong.lee@energyville.be"
