@@ -2,7 +2,7 @@
 title: "About"
 layout: single
 permalink: /about/
-clasesse: wide
+classes: wide
 # author_profile: true
 ---
 
@@ -107,6 +107,22 @@ body {
     </div>
     <p>
       <strong>Ph.D. Dissertation:</strong><br>
+      <em>‘Design and Stability Analysis of Modular Multilevel Converter-Based High Voltage Direct Current Applications with Grid-Forming Controllers: Moving Towards Offshore Wind Integrating DC Network’</em><br>
+      <em>Advisor: Prof. Jef Beerten</em>
+    </p>
+  </div>
+
+  <div style="margin-bottom: 30px;">
+    <div style="display: flex; align-items: center; gap: 10px;">
+      <img src="/assets/images/Logo_KoreaUniv.png" alt="Korea University" width="80">
+      <h3 style="margin: 0;">Korea University</h3>
+    </div>
+    <div style="display: flex; justify-content: space-between; font-style: italic;">
+      <span>M.S. in Electrical Engineering, Energy</span>
+      <span>Seoul, Korea | 2021 –</span>
+    </div>
+    <p>
+      <strong>Master Thesis:</strong><br>
       <em>‘Design and Stability Analysis of Modular Multilevel Converter-Based High Voltage Direct Current Applications with Grid-Forming Controllers: Moving Towards Offshore Wind Integrating DC Network’</em><br>
       <em>Advisor: Prof. Jef Beerten</em>
     </p>
