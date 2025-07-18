@@ -90,7 +90,7 @@ body {
 <div class="about-content">
   <section id="About">
     <h2>About - Dongyeong Lee</h2>
-    <p>I am Doctoral Student of KU Leuven, Leuven, Belgium. At the same time, working as doctoral researcher at EnergyVille and Energy Transmission Competence Hub (Etch), Genk, Belgium. My research interests includ Power System Dynamics and Stability with High-Voltage Direct Current Transmission System and Wind Energy. </p>
+    <p>I am currently Doctoral Student of KU Leuven, Leuven, Belgium. At the same time, working as doctoral researcher at EnergyVille and Energy Transmission Competence Hub (Etch), Genk, Belgium. My research interests includ Power System Dynamics and Stability with High-Voltage Direct Current Transmission System and Wind Energy. </p>
   </section>
 
 <section id="Education">
@@ -114,7 +114,7 @@ body {
 </section>
 
   <section id="projects">
-    <h2>프로젝트</h2>
+    <h2>Served Projects</h2>
     <p>Grid-forming 제어 시뮬레이션, 해상풍력 연계 시스템 분석 등</p>
   </section>
 </div>
