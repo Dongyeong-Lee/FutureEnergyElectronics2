@@ -1,6 +1,6 @@
 ---
 title: "About"
-layout: single
+layout: splash
 permalink: /about/
 classes: wide
 # author_profile: true
@@ -47,9 +47,9 @@ body {
 
 /* 본문 스타일 */
 .about-content {
-  margin-left: 220px; /* ← 여기 줄이기 */
-  padding: 20px 40px;
-  max-width: 1200px;  /* ← 최대 너비 늘리기 */
+  margin-left: 240px; /* ← 여기 줄이기 */
+  padding: 40px 60px;
+  max-width: none;  /* ← 최대 너비 늘리기 */
 }
 
 
