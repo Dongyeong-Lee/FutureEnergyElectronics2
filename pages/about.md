@@ -3,7 +3,7 @@ title: "About"
 layout: splash
 permalink: /about/
 clasesse: wide
-author_profile: true
+# author_profile: true
 ---
 
 <style>
