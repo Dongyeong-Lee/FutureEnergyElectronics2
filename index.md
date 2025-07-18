@@ -1,6 +1,6 @@
 ---
-# layout: home
-# title: "Dongyeong Lee"
+layout: splash
+title: "Home"
 author_profile: true
 classes: wide # ← 이 줄 추가!
 ---
