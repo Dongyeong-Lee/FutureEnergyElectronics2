@@ -138,10 +138,12 @@ author:
       # url: "https://instagram.com/"
 
 # Site Footer
-footer: 
-  links: flase
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+footer:
+  show_powered_by: false
+  links:
+    false
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
     #   # url:
     # - label: "Facebook"
     #   icon: "fab fa-fw fa-facebook-square"
