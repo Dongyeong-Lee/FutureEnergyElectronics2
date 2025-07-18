@@ -125,7 +125,7 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/dongyeong-lee/"
     - label: "ORCID"
-      icon: "ai ai-orcid"
+      # icon: "ai ai-orcid"
       url: "https://orcid.org/0000-0002-6570-6464"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
