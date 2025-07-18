@@ -1,0 +1,19 @@
+<div class="author__urls-wrapper">
+  <ul class="author__urls social-icons">
+    {% if site.author.email %}
+      <li><a href="mailto:{{ site.author.email }}"><i class="fas fa-fw fa-envelope-square"></i> Email</a></li>
+    {% endif %}
+    {% for link in site.author.links %}
+      <li>
+        <a href="{{ link.url }}">
+          {% if link.label == "ORCID" %}
+            <img src="{{ '/assets/images/orcid.svg' | relative_url }}" alt="ORCID" width="16" height="16" style="vertical-align: text-bottom;" />
+            {{ link.label }}
+          {% else %}
+            <i class="{{ link.icon }}"></i> {{ link.label }}
+          {% endif %}
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
