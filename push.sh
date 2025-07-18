@@ -6,4 +6,4 @@ MESSAGE=${1:-"자동 커밋"}
 # git 명령 실행
 git add .
 git commit -m "$MESSAGE"
-git push origin main
+git push origin "master"
