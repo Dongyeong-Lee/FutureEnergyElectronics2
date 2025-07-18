@@ -18,8 +18,8 @@ body {
 .about-nav {
   position: fixed;
   top: 120px;
-  left: 30px;
-  width: 160px;
+  left: 80px;
+  width: 200px;
   font-size: 14px;
   font-weight: 500;
 }
@@ -47,7 +47,7 @@ body {
 
 /* 본문 스타일 */
 .about-content {
-  margin-left: 240px; /* ← 여기 줄이기 */
+  margin-left: 300px; /* ← 여기 줄이기 */
   padding: 40px 60px;
   max-width: none;  /* ← 최대 너비 늘리기 */
 }
