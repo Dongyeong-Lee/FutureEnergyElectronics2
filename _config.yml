@@ -113,7 +113,7 @@ analytics:
 # Site Author
 author:
   name: "Dongyeong Lee"
-  avatar: "/assets/images/Profile1_Grey.jpg"
+  avatar: "assets/images/Profile2_Grey.jpg"
   bio: "I am an Doctoral Researcher \\@ KU Leuven and EnergyVille."
   location: "Somewhere"
   email: "dongyeong.lee@kuleuven.com or dongyeong.lee@energyville.be"
