@@ -18,9 +18,9 @@ body {
 .about-nav {
   position: fixed;
   top: 120px;
-  left: 20px;
-  width: 200px;
-  font-size: 15px;
+  left: 30px;
+  width: 160px;
+  font-size: 14px;
   font-weight: 500;
 }
 
@@ -45,12 +45,13 @@ body {
   text-decoration: underline;
 }
 
-/* 본문 컨텐츠 */
+/* 본문 스타일 */
 .about-content {
-  margin-left: 240px;
-  padding: 30px 40px;
-  max-width: 800px;
+  margin-left: 220px; /* ← 여기 줄이기 */
+  padding: 20px 40px;
+  max-width: 1000px;  /* ← 최대 너비 늘리기 */
 }
+
 
 .about-content h2 {
   font-size: 24px;
@@ -60,10 +61,12 @@ body {
   margin-top: 40px;
 }
 
-.about-content p, .about-content li {
+/* 텍스트 스타일 */
+.about-content p,
+.about-content li {
   font-size: 16px;
   line-height: 1.7;
-  color: #444;
+  color: #333;
 }
 </style>
 
