@@ -67,27 +67,27 @@ body {
 }
 </style>
 
-# Dongyeong Lee
+<!-- # Dongyeong Lee -->
 
 <nav class="about-nav">
   <ul>
-    <li><a href="#intro">About</a></li>
-    <li><a href="#skills">Education</a></li>
+    <li><a href="#About">About</a></li>
+    <li><a href="#Education">Education</a></li>
     <li><a href="#projects">Projects</a></li>
-    <li><a href="#projects">Experience</a></li>
-    <li><a href="#projects">Journal Publications</a></li>
-    <li><a href="#projects">Conference & Talks</a></li>
-    <li><a href="#projects">Supervising</a></li>
-    <li><a href="#projects">Honors & Awards & Scholarship</a></li>
-    <li><a href="#projects">Teaching</a></li>
-    <li><a href="#projects">Professional Services</a></li>
+    <li><a href="#Experience">Experience</a></li>
+    <li><a href="#Journal Publications">Journal Publications</a></li>
+    <li><a href="#Conference & Talks">Conference & Talks</a></li>
+    <li><a href="#Supervising">Supervising</a></li>
+    <li><a href="#Honors & Awards & Scholarship">Honors & Awards & Scholarship</a></li>
+    <li><a href="#Teaching">Teaching</a></li>
+    <li><a href="#Professional Services">Professional Services</a></li>
   </ul>
 </nav>
 
 <div class="about-content">
-  <section id="intro">
-    <h2>소개</h2>
-    <p>저는 KU Leuven에서 박사과정 중이며...</p>
+  <section id="About">
+    <h2>About - Dongyeong Lee</h2>
+    <p>I am Doctoral Student of KU Leuven, Leuven, Belgium. At the same time, working as doctoral researcher at EnergyVille and Energy Transmission Competence Hub (Etch), Genk, Belgium. My research interests includ Power System Dynamics and Stability with High-Voltage Direct Current Transmission System and Wind Energy. </p>
   </section>
 
   <section id="skills">
