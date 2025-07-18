@@ -118,14 +118,25 @@ body {
       <h3 style="margin: 0;">Korea University</h3>
     </div>
     <div style="display: flex; justify-content: space-between; font-style: italic;">
-      <span>M.S. in Electrical Engineering, Energy</span>
-      <span>Seoul, Korea | 2021 –</span>
+      <span>M.S. in Engineering, Electric Energy</span>
+      <span>Seoul, Korea | -2023 –</span>
     </div>
     <p>
       <strong>Master Thesis:</strong><br>
-      <em>‘Design and Stability Analysis of Modular Multilevel Converter-Based High Voltage Direct Current Applications with Grid-Forming Controllers: Moving Towards Offshore Wind Integrating DC Network’</em><br>
-      <em>Advisor: Prof. Jef Beerten</em>
+      <em>‘Frequency Control and Stability of Wind-Linked High Voltage Direct Current System: Inverter Based Power System’</em><br>
+      <em>Advisor: Prof. Gilsoo Jang</em>
     </p>
+  </div>
+
+  <div style="margin-bottom: 30px;">
+    <div style="display: flex; align-items: center; gap: 10px;">
+      <img src="/assets/images/Logo_KoreaUniv.png" alt="Korea University" width="80">
+      <h3 style="margin: 0;">Korea University</h3>
+    </div>
+    <div style="display: flex; justify-content: space-between; font-style: italic;">
+      <span>B.S. in Engineering, School of Electrical Engineering</span>
+      <span>Seoul, Korea | -2021 –</span>
+    </div>
   </div>
 </section>
 
