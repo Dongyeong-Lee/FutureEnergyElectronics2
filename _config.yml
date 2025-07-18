@@ -114,9 +114,9 @@ analytics:
 author:
   name: "Your Name"
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "I am an **amazing** person."
+  bio: "I am an Doctoral Researcher at KU Leuven and EnergyVille."
   location: "Somewhere"
-  email:
+  email:"dongyeong.lee@kuleuven.com or dongyeong.lee@energyville.be"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
