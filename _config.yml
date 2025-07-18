@@ -118,7 +118,7 @@ author:
   location: "Leuven & Genk / Belgium"
   email: "dongyeong.lee@kuleuven.com"
   links:
-    - label: "dongyeong.lee@kuleuven.be"
+    - label: "Email <br> dongyeong.lee@kuleuven.be <br>"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "Website"
