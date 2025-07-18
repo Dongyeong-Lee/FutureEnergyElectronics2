@@ -2,29 +2,38 @@
 title: "About"
 layout: splash
 permalink: /about/
-author_profile: true
+clasesse: wide
+# author_profile: true
 ---
 
-## 👋 About Me
+# Dongyeong Lee
 
 
-# 👋 About Me
+<nav class="about-nav">
+  <ul>
+    <li><a href="#intro">소개</a></li>
+    <li><a href="#skills">기술</a></li>
+    <li><a href="#projects">프로젝트</a></li>
+  </ul>
+</nav>
 
-[소개](#intro) | [기술](#skills) | [프로젝트](#projects)
+<div class="about-content">
+  <section id="intro">
+    <h2>소개</h2>
+    <p>저는 KU Leuven에서 박사과정 중이며...</p>
+  </section>
 
----
+  <section id="skills">
+    <h2>기술</h2>
+    <ul>
+      <li>Python</li>
+      <li>MATLAB</li>
+      <li>VSC-HVDC</li>
+    </ul>
+  </section>
 
-## 소개
-<a id="intro"></a>
-저는 KU Leuven의 박사과정 연구자입니다. 전력전자, HVDC 시스템 등에 관심이 있습니다.
-
-## 기술 스택
-<a id="skills"></a>
-- Python  
-- MATLAB  
-- VSC-HVDC  
-
-## 프로젝트
-<a id="projects"></a>
-- 해상풍력 MMC 시뮬레이션  
-- Grid-forming 제어 설계
+  <section id="projects">
+    <h2>프로젝트</h2>
+    <p>Grid-forming 제어 시뮬레이션, 해상풍력 연계 시스템 분석 등</p>
+  </section>
+</div>

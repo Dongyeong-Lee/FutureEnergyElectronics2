@@ -1,0 +1,28 @@
+.about-nav {
+  position: fixed;
+  top: 100px;
+  left: 30px;
+  width: 160px;
+}
+
+.about-nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+.about-nav li {
+  margin-bottom: 10px;
+}
+
+.about-content {
+  margin-left: 220px;
+  padding-right: 30px;
+}
+
+.about-content section {
+  margin-bottom: 100px;
+}
+
+html {
+  scroll-behavior: smooth;
+}
