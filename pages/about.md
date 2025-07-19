@@ -85,9 +85,6 @@ body {
     <li><a href="#About">About</a></li>
     <li><a href="#Education">Education</a></li>
     <li><a href="#Experience">Experience</a></li>
-    <li><a href="#projects">Projects</a></li>
-    <li><a href="#Journal Publications">Journal Publications</a></li>
-    <li><a href="#Conference & Talks">Conference & Talks</a></li>
     <li><a href="#Supervising">Supervising</a></li>
     <li><a href="#Honors & Awards & Scholarship">Honors & Awards & Scholarship</a></li>
     <li><a href="#Teaching">Teaching</a></li>
@@ -204,46 +201,4 @@ body {
   </div>
 </section>
 
-<!--  프로젝트  -->
-  <section id="projects">
-    <h2>🚀 Served Projects</h2> <br>
 
-  <div style="margin-bottom: 30px;">
-    <div style="display: flex; justify-content: space-between;">
-      <h3 style="margin: 0;">KU Leuven (Katholiek Universiteit Leuven)</h3>
-      <span style="font-style: italic;">Leuven, Belgium | 2023 – 2025</span>
-    </div>
-    <ul style="margin-top: 10px;">
-      <li>
-        <strong>DIRECTIONS</strong> – Design protection and control of offshore DC grids and energy hubs, <br>
-        <em>"Energy Islands Project for Offshore Wind Integration with MMC-Based Multi-Terminal HVDC System in Belgium"</em>  
-        <br>PI: <em>Prof. Jef Beerten &amp; Prof. Dirk Van Hertem</em>  
-        <br><strong>with Elia</strong>
-      </li>
-    </ul>
-  </div>
-
-  <div style="margin-bottom: 30px;">
-    <div style="display: flex; justify-content: space-between;">
-      <h3 style="margin: 0;">Korea University</h3>
-      <span style="font-style: italic;">Seoul, Korea</span>
-    </div>
-    <ul style="margin-top: 10px;">
-      <li>
-        Development of future power grid design technology  
-        <br>PI: <em>Prof. Gilsoo Jang</em>  
-        <br><strong>with KEPRI</strong> | 2020 – 2023
-      </li>
-      <li>
-        HVDC system transient analysis with cable  
-        <br>PI: <em>Prof. Gilsoo Jang</em>  
-        <br><strong>with LS-Cable</strong> | 2020 – 2022
-      </li>
-      <li>
-        Establishment of optimal operation strategy for embedded HVDC and interaction analysis technology  
-        <br>PI: <em>Prof. Gilsoo Jang</em>  
-        <br><strong>with KEPRI</strong> | 2020 – 2022
-      </li>
-    </ul>
-  </div>
-</section>
