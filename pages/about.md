@@ -18,9 +18,9 @@ body {
 .about-nav {
   position: fixed;
   top: 200px;
-  left: 800px;
+  left: 600px;
   width: 300px;
-  font-size: 20px;
+  font-size: 30px;
   font-weight: 500;
 }
 
