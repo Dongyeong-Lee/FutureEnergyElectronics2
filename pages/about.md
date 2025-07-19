@@ -18,9 +18,9 @@ body {
 .about-nav {
   position: fixed;
   top: 200px;
-  left: 600px;
+  left: 150px;
   width: 300px;
-  font-size: 30px;
+  font-size: 25px;
   font-weight: 500;
 }
 
@@ -47,7 +47,7 @@ body {
 
 /* 본문 스타일 */
 .about-content {
-  margin-left: 300px; /* ← 여기 줄이기 */
+  margin-left: 100px; /* ← 여기 줄이기 */
   padding: 40px 60px;
   max-width: 1500px;  /* ← 최대 너비 늘리기 */
 }
@@ -98,16 +98,18 @@ body {
 
   <div style="margin-bottom: 30px;">
     <div style="display: flex; align-items: center; gap: 10px;">
-      <img src="/assets/images/Logo_KU_Leuven.png" alt="KU Leuven" width="80">
+      <img src="{{'/assets/images/Logo_KU_Leuven.png' | relative_url }}" alt="KU Leuven" width="80">
       <h3 style="margin: 0;">KU Leuven (Katholiek Universiteit Leuven)</h3>
+    <span>Leuven, Belgium | 2023 –</span>
     </div>
+    <br>
     <div style="display: flex; justify-content: space-between; font-style: italic;">
       <span>Ph.D. in Electrical Engineering, ESAT - Electa
       <br>
       Department of Electrical Engineering - Electrical Energy Systems and Applications
       </span>
-      <span>Leuven, Belgium | Apr 2023 –</span>
     </div>
+    <br>
     <p>
       <strong>Ph.D. Dissertation:</strong><br>
       <em>‘Design and Stability Analysis of Modular Multilevel Converter-Based High Voltage Direct Current Applications with Grid-Forming Controllers: Moving Towards Offshore Wind Integrating DC Network’</em><br>
@@ -119,10 +121,10 @@ body {
     <div style="display: flex; align-items: center; gap: 10px;">
       <img src="/assets/images/Logo_KoreaUniv.png" alt="Korea University" width="80">
       <h3 style="margin: 0;">Korea University</h3>
+      <span>Seoul, Korea | -2023 </span>
     </div>
     <div style="display: flex; justify-content: space-between; font-style: italic;">
       <span>M.S. in Electrical Energy, Department of Electrical Engineering</span>
-      <span>Seoul, Korea | -2023 –</span>
     </div>
     <p>
       <strong>Master Thesis:</strong><br>
@@ -134,11 +136,11 @@ body {
   <div style="margin-bottom: 30px;">
     <div style="display: flex; align-items: center; gap: 10px;">
       <img src="/assets/images/Logo_KoreaUniv.png" alt="Korea University" width="80">
-      <h3 style="margin: 0;">Korea University</h3>
+      <h3 style="margin: 0; flex-grow: 1;">Korea University</h3>
+      <span style="text-align: right;">Seoul, Korea | -2021</span>
     </div>
     <div style="display: flex; justify-content: space-between; font-style: italic;">
-      <span>B.S. in Electrical Engineering, School of Electrical Engineering</span>
-      <span>Seoul, Korea | -2021 –</span>
+      <span>B.S. in Electrical Engineering, School of Electrical Engineering</span>      
     </div>
   </div>
 </section>
