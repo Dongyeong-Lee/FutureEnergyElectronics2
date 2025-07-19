@@ -54,7 +54,7 @@ body {
 
 
 .about-content h2 {
-  font-size: 24px;
+  font-size: 35px;
   color: #1a1a1a;
   border-bottom: 2px solid #eee;
   padding-bottom: 5px;
@@ -84,8 +84,8 @@ body {
   <ul>
     <li><a href="#About">About</a></li>
     <li><a href="#Education">Education</a></li>
-    <li><a href="#projects">Projects</a></li>
     <li><a href="#Experience">Experience</a></li>
+    <li><a href="#projects">Projects</a></li>
     <li><a href="#Journal Publications">Journal Publications</a></li>
     <li><a href="#Conference & Talks">Conference & Talks</a></li>
     <li><a href="#Supervising">Supervising</a></li>
@@ -100,7 +100,7 @@ body {
 <div class="about-content">
   <section id="About">
     <h2>About - Dongyeong Lee</h2>
-    <p>I am currently Doctoral Student of KU Leuven, Leuven, Belgium. At the same time, working as doctoral researcher at EnergyVille and Energy Transmission Competence Hub (Etch), Genk, Belgium. My research interests includ Power System Dynamics and Stability with High-Voltage Direct Current Transmission System and Wind Energy. </p>
+    <p>I am currently Doctoral Student of KU Leuven, Leuven, Belgium. At the same time, working as doctoral researcher at EnergyVille and Energy Transmission Competence Hub (Etch), Genk, Belgium. My research interests includ Power System Dynamics, Stability, and Control with High-Voltage Direct Current Transmission System and Wind Energy. </p>
   </section>
 
 <!--  교육  -->
@@ -109,8 +109,8 @@ body {
   <h2>🎓 Education</h2>
   <br>
   <div style="margin-bottom: 30px;">
-    <div style="display: flex; align-items: center; gap: 10px;">
-      <img src="{{'/assets/images/Logo_KU_Leuven.png' | relative_url }}" alt="KU Leuven" width="150">
+    <div style="display: flex; align-items: center; gap: 20px;">
+      <img src="{{'/assets/images/Logo_KU_Leuven.png' | relative_url }}" alt="KU Leuven" width="130">
       <h3 style="margin: 0;flex-grow: 1;">KU Leuven (Katholiek Universiteit Leuven)</h3>
     <span>Leuven, Belgium | 2023 –</span>
     </div>    <br>
@@ -153,9 +153,97 @@ body {
     </div>
   </div>
 </section>
+
+<!-- Experiences -->
+
+<section id="Experience">
+  <h2>💼 Experiences</h2> <br>
+
+  <!-- Imperial College London -->
+  <div style="margin-bottom: 30px;">
+    <div style="display: flex; justify-content: space-between;">
+      <div style="display: flex; align-items: center; gap: 30px;">
+        <img src="{{ '/assets/images/Logo_Imperial_College_London.png' | relative_url }}" alt="Imperial College London" width="130">
+        <h3 style="margin: 0;">Imperial College London</h3>
+      </div>
+      <span style="font-style: italic;">2025</span>
+    </div>
+    <p style="margin-top: 5px;"> <br>
+      <strong>Research Topic</strong>: Control Interaction Identification with Offshore Wind-HVDC Grid  
+      <br><strong>Advisor: Prof. Tim. C. Green &amp; Dr. Yunjie Gu</strong>, Visiting Researcher
+    </p>
+  </div>
+
+  <!-- Etch -->
+  <div style="margin-bottom: 25px;">
+    <div style="display: flex; justify-content: space-between;">
+      <div style="display: flex; align-items: center; gap: 20px;">
+        <img src="{{ '/assets/images/Logo_Etch2.jpg' | relative_url }}" alt="Etch" width="140">
+        <h3 style="margin: 0;">Etch (Energy Transmission Competence Hub)</h3>
+      </div>
+      <span style="font-style: italic;">2023–</span>
+    </div>
+    <p style="margin-top: 5px;"> 
+      HVDC Research Team, Control Group  
+      <br><strong>Director: Prof. Dirk Van Hertem</strong>, Doctoral Researcher
+    </p>
+  </div>
+    <!-- EnergyVille -->
+  <div style="margin-bottom: 30px;">
+    <div style="display: flex; justify-content: space-between;">
+      <div style="display: flex; align-items: center; gap: 30px;">
+        <img src="{{ '/assets/images/Logo_EnergyVille.png' | relative_url }}" alt="Etch" width="130">
+        <h3 style="margin: 0;"><strong>EnergyVille</strong></h3>
+      </div>
+      <span style="font-style: italic;">2023–</span>
+    </div>
+    <p style="margin-top: 5px;"> <br>
+      Electrical Network, HVDC Research Team  
+      <br><strong>Director: Prof. Dirk Van Hertem</strong>, Doctoral Researcher
+    </p>
+  </div>
+</section>
+
 <!--  프로젝트  -->
   <section id="projects">
-    <h2>Served Projects</h2>
-    <p>Grid-forming 제어 시뮬레이션, 해상풍력 연계 시스템 분석 등</p>
-  </section>
-</div>
+    <h2>🚀 Served Projects</h2> <br>
+
+  <div style="margin-bottom: 30px;">
+    <div style="display: flex; justify-content: space-between;">
+      <h3 style="margin: 0;">KU Leuven (Katholiek Universiteit Leuven)</h3>
+      <span style="font-style: italic;">Leuven, Belgium | 2023 – 2025</span>
+    </div>
+    <ul style="margin-top: 10px;">
+      <li>
+        <strong>DIRECTIONS</strong> – Design protection and control of offshore DC grids and energy hubs, <br>
+        <em>"Energy Islands Project for Offshore Wind Integration with MMC-Based Multi-Terminal HVDC System in Belgium"</em>  
+        <br>PI: <em>Prof. Jef Beerten &amp; Prof. Dirk Van Hertem</em>  
+        <br><strong>with Elia</strong>
+      </li>
+    </ul>
+  </div>
+
+  <div style="margin-bottom: 30px;">
+    <div style="display: flex; justify-content: space-between;">
+      <h3 style="margin: 0;">Korea University</h3>
+      <span style="font-style: italic;">Seoul, Korea</span>
+    </div>
+    <ul style="margin-top: 10px;">
+      <li>
+        Development of future power grid design technology  
+        <br>PI: <em>Prof. Gilsoo Jang</em>  
+        <br><strong>with KEPRI</strong> | 2020 – 2023
+      </li>
+      <li>
+        HVDC system transient analysis with cable  
+        <br>PI: <em>Prof. Gilsoo Jang</em>  
+        <br><strong>with LS-Cable</strong> | 2020 – 2022
+      </li>
+      <li>
+        Establishment of optimal operation strategy for embedded HVDC and interaction analysis technology  
+        <br>PI: <em>Prof. Gilsoo Jang</em>  
+        <br><strong>with KEPRI</strong> | 2020 – 2022
+      </li>
+    </ul>
+  </div>
+</section>
