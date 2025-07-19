@@ -49,7 +49,7 @@ body {
 .about-content {
   margin-left: 300px; /* ← 여기 줄이기 */
   padding: 40px 60px;
-  max-width: none;  /* ← 최대 너비 늘리기 */
+  max-width: 1500px;  /* ← 최대 너비 늘리기 */
 }
 
 
