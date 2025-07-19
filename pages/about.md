@@ -17,8 +17,8 @@ body {
 /* 메뉴 바 스타일 */
 .about-nav {
   position: fixed;
-  top: 120px;
-  left: 200px;
+  top: 200px;
+  left: 800px;
   width: 200px;
   font-size: 14px;
   font-weight: 500;
@@ -102,7 +102,10 @@ body {
       <h3 style="margin: 0;">KU Leuven (Katholiek Universiteit Leuven)</h3>
     </div>
     <div style="display: flex; justify-content: space-between; font-style: italic;">
-      <span>Ph.D. in Electrical Engineering, ESAT - Electa</span>
+      <span>Ph.D. in Electrical Engineering, ESAT - Electa
+      <br>
+      Department of Electrical Engineering - Electrical Energy Systems and Applications
+      </span>
       <span>Leuven, Belgium | Apr 2023 –</span>
     </div>
     <p>
