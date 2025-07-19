@@ -19,8 +19,8 @@ body {
   position: fixed;
   top: 200px;
   left: 800px;
-  width: 200px;
-  font-size: 14px;
+  width: 300px;
+  font-size: 20px;
   font-weight: 500;
 }
 
