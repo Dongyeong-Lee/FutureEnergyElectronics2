@@ -124,18 +124,12 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/dongyeong-lee/"
-    - label: "ORCID"
-      # icon: "ai ai-orcid"
+    - label: "orcid"
+      icon: "/assets/images/orcid.svg"
       url: "https://orcid.org/0000-0002-6570-6464"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    # - label: "<img src='{{ '/assets/images/orcid.svg' | relative_url }}' alt='ORCID' width='18' style='vertical-align: middle;'> ORCID"
+    #   icon: "" # 빈칸으로 두고
+    #   url: "https://orcid.org/0000-0002-6570-6464"
 
 # Site Footer
 footer:

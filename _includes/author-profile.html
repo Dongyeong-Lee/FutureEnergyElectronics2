@@ -88,6 +88,15 @@
         </li>
       {% endif %}
 
+      {% if author.orcid %}
+        <li>
+          <a href="https://orcid.org/{{ author.orcid }}" itemprop="sameAs" rel="nofollow noopener noreferrer me">
+            <img src="{{ '/assets/images/orcid.svg' | relative_url }}" width="18" alt="ORCID" style="vertical-align: middle; margin-right: 6px;">
+            <span class="label">ORCID</span>
+          </a>
+        </li>
+      {% endif %}
+      
       {% if author.xing %}
         <li>
           <a href="https://www.xing.com/profile/{{ author.xing }}" itemprop="sameAs" rel="nofollow noopener noreferrer me">
