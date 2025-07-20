@@ -1,7 +1,7 @@
 ---
-title: "Activities"
+title: "Teaching & Supervision"
 layout: splash
-permalink: /activities/
+permalink: /teaching_supervision/
 classes: wide
 # author_profile: true
 ---
@@ -80,10 +80,7 @@ body {
 
 <nav class="about-nav">
   <ul>
-    <li><a href="#Talks">Talks &<br>Presentations</a></li>
-    <li><a href="#Conference">Conference</a></li>  
-    <li><a href="#Professional Services">Professional Services</a></li>
-    
-    
-   </ul>
+    <li><a href="#Int_Journal">International<br>Journal</a></li>
+    <br>
+  </ul>
 </nav>

@@ -88,7 +88,6 @@ body {
     <li><a href="#Supervising">Supervising</a></li>
     <li><a href="#Honors & Awards & Scholarship">Honors & Awards & Scholarship</a></li>
     <li><a href="#Teaching">Teaching</a></li>
-    <li><a href="#Professional Services">Professional Services</a></li>
   </ul>
 </nav>
 

@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: home
 title: "Home"
 permalink: /
@@ -12,4 +12,4 @@ Welcome to F.E.E.L, Future Energy Electronics Lab! ⚡
 
 This site is made for introduction.
 <br>
-<!-- 이 페이지는 제 개인 소개를 위하여 만들어졌습니다. -->
+이 페이지는 제 개인 소개를 위하여 만들어졌습니다. -->
